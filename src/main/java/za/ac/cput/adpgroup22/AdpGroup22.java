@@ -7,7 +7,7 @@ package za.ac.cput.adpgroup22;
 
 /**
  *
- * @author jodykearns
+ * @author Group
  */
 public class AdpGroup22 {
     
